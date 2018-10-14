@@ -1,5 +1,5 @@
 # sb2merge
-Merge projects from Scratch, mBlock and so on (*.sb2 files).
+Merge projects from Scratch, mBlock and so on (*.sb2 files). More info on http://www.algonaut.cz/spoluprace-na-projektech-v-mblock-cooperation-on-mblock-projects/
 
 ## Usage:
 ```
